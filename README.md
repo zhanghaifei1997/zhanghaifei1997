@@ -18,7 +18,7 @@
  </a>
 </p>
 <p align="center">
- <a href="https://github.com/zhanghaifei1997">
+ <a href="https://github.com/zhanghaifei1997" style="text-align: center;">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghaifei1997)](https://github.com/zhanghaifei1997/github-readme-stats)
  </a>
