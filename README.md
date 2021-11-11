@@ -18,16 +18,11 @@
  </a>
 </p>
 <p align="center">
- <a href="https://github.com/zhanghaifei1997" style="text-align: center;">
+ <a href="https://github.com/zhanghaifei1997" align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghaifei1997)](https://github.com/zhanghaifei1997/github-readme-stats)
  </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaifei1997&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaifei1997&repo=convoychat" />
-</a>
+
 </p>
 
 
