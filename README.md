@@ -7,7 +7,7 @@
 
 
 <p align="center">
- <img width="100px" src="https://github.com/zhanghaifei1997/zhanghaifei1997/blob/main/images/hont1.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://raw.githubusercontent.com/zhanghaifei1997/zhanghaifei1997/main/images/hont1.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">HuntTigerTonight</h2>
   <p align="center">让编程改变世界.</p>
 </p>
