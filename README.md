@@ -8,7 +8,7 @@
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Mashiro2000</h2>
+ <h2 align="center">HuntTigerTonight</h2>
   <p align="center">让编程改变世界.</p>
 </p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
  <a href="https://github.com/zhanghaifei1997">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaifei1997&repo=github-readme-stats"/>
  </a>
 </p>
 <p>
