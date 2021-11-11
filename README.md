@@ -17,9 +17,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zhanghaifei1997&show_icons=true&theme=radical"/>
  </a>
 </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
  <a href="https://github.com/zhanghaifei1997">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghaifei1997)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
  </a>
 </p>
 <p>
