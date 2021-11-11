@@ -21,7 +21,9 @@
 
 <p align="center">
  <a href="https://github.com/zhanghaifei1997">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaifei1997&repo=github-readme-stats"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
  </a>
 </p>
 <p>
