@@ -19,8 +19,8 @@
 </p>
 <p align="center">
  <a href="https://github.com/zhanghaifei1997" align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghaifei1997)](https://github.com/zhanghaifei1997/github-readme-stats)
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghaifei1997"/>
+ 
  </a>
 
 </p>
@@ -46,6 +46,7 @@
 </p>
 
 <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghaifei1997)](https://github.com/zhanghaifei1997/github-readme-stats)
 ### Hi there 👋
 **zhanghaifei1997/zhanghaifei1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
