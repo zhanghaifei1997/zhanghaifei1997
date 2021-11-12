@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img width="100px" src="https://gitee.com/zhanghaifeimy/learn_images_lab/blob/master/images/touxiang/hot2.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://zhanghaifeimy.gitee.io/learn_images_lab/images/touxiang/hot2.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">HuntTigerTonight</h2>
   <p align="center">让编程改变世界.</p>
 </p>
